@@ -9,6 +9,7 @@ Edit extension/manifest.json. Replace "https://192.168.1.64:8000" in "content_sc
 
 See - https://developer.chrome.com/extensions/manifest
 
+Also, modify the icon.png if desired.
 
 # Installation / Testing
 
@@ -22,4 +23,4 @@ See - https://developer.chrome.com/extensions/manifest
 
 Forked and only slightly modified from https://github.com/wpp/ScreenStream
 
-See README.md there for more documentaiton.
+See README.md there for more documentation.
